@@ -73,7 +73,6 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case161.jpg"></img>
 <details>
-  <summary>點擊展開查看 JSON 設定檔</summary>
 ```Json
 {
   "type": "video game screenshot mockup",
