@@ -1,6 +1,6 @@
 參考圖
 ### 例 25：综合应用场景图
-<img scr="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case25.jpg"></img>
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case25.jpg"></img>
 ```
 create a minecraft skin inspired by {argument name="reference" default="my look"}
 ```
