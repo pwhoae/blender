@@ -124,6 +124,7 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 ***
 <hr>
+'''
 【 分享咒語｜PC人設粉絲專頁 】
 如果只是想做基本網頁，
 可以直接把自己的角色人設資料貼上，
@@ -235,6 +236,7 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 masterpiece, ultra high quality, premium Korean webtoon style, semi-realistic, 2.5D rendering, elegant UI design, romantic, luxury, feminine, refined, clean lineart, cinematic lighting, soft glow, detailed character page, social media homepage layout
 ✦ 負面限制
 避免：雜亂、廉價感、低畫質、模糊、Q版比例、單一人物海報、所有縮圖造型重複、文字遮擋、資訊重複
+'''
 <hr>
 
 角色海報介紹
