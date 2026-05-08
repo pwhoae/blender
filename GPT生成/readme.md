@@ -443,7 +443,7 @@ Pure black background as the base, perfectly fitting the passionate atmosphere, 
 
 ### 例 237：夏日柑橘苏打高转化广告图
 
-<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case25.jpg"></img>
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case237.jpg"></img>
 
 
 ```text
