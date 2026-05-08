@@ -895,7 +895,7 @@ Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argu
 
 ### 例 400：多风格签名选择海报
 
-<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case400.jpg"></img>
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case400.png"></img>
 ```text
 你是一个高端签名设计系统 + 风格人格视觉系统。
 
