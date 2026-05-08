@@ -1,4 +1,5 @@
 怎么把ChatGPT image 2拆
+开放世界
 參考圖提示词
 ### 例 25：综合应用场景图
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case25.jpg"></img>
@@ -307,3 +308,678 @@ masterpiece, ultra high quality, premium Korean webtoon style, semi-realistic, 2
 ・整體排版不要太擁擠，保有留白」
 '''
 <hr>
+<a name="case-186"></a>
+
+### 例 186：品牌视觉识别图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case186.jpg"></img>
+```text
+[中文]
+创建一个包含100种不同奇幻RPG物品的10×10网格，以经典像素艺术风格渲染（16位或32位精灵图美学，让人联想到SNES/GBA时代的日式RPG）。每个物品应出现在其独立的方形瓷砖中，下方带有简短清晰的标签。在白色背景上保持网格整洁。使每个物品在视觉上都有所区分，并且每个标签拼写正确。使用清晰的像素边缘、每个精灵图有限的调色板，以及用于阴影的微妙抖动。
+使用这些行主题：
+第1行：剑与刀刃
+第2行：盾牌与盔甲
+第3行：弓、弩与远程武器
+第4行：法杖、魔杖与魔法焦点
+第5行：药水、灵药与烧瓶
+第6行：卷轴、典籍与法术书
+第7行：戒指、护身符与附魔小饰品
+第8行：头盔、王冠与头饰
+第9行：钥匙、遗物与任务物品
+第10行：宝石、符文与制作材料
+将每个瓷砖显示为干净背景方形上居中的物品精灵图，渲染为经典的库存图标——你在奇幻RPG菜单中会看到的那种。保持整体风格一致、连贯，并让人联想到备受喜爱的复古奇幻RPG——迷人、细节丰富，且在小尺寸下易于辨认。
+
+[English]
+Create a 10 × 10 grid of 100 different fantasy RPG items rendered in classic pixel art style (16-bit or 32-bit sprite aesthetic, reminiscent of SNES/GBA-era JRPGs). Each item should appear in its own square tile with a short clear label underneath. Keep the grid neat on a white background. Make every item visually distinct and every label correctly spelled. Use crisp pixel edges, limited palette per sprite, and subtle dithering for shading.
+Use these row themes:
+Row 1: swords and blades
+Row 2: shields and armor
+Row 3: bows, crossbows, and ranged weapons
+Row 4: staves, wands, and magical foci
+Row 5: potions, elixirs, and flasks
+Row 6: scrolls, tomes, and spellbooks
+Row 7: rings, amulets, and enchanted trinkets
+Row 8: helmets, crowns, and headgear
+Row 9: keys, relics, and quest items
+Row 10: gems, runes, and crafting materials
+Show each tile as a centered item sprite on a clean background square, rendered as a classic inventory icon — the kind you'd see in a fantasy RPG menu. Keep the overall style consistent, cohesive, and reminiscent of beloved retro fantasy RPGs — charming, detailed, and instantly readable at small sizes.
+```
+<a name="case-196"></a>
+### 例 196：试卷上的涂鸦巨龙
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case196.jpg"></img>
+```text
+[中文]
+一个巨大的巨龙，庞大的规模，高耸的存在感，
+一个远超人类尺寸的巨大实体，压倒性和压迫性的，
+用极其密集的混乱涂鸦线条绘制，
+超密集的重叠笔触，纠缠和混乱的线条画，
+在真实的印刷英文/中文教科书或试卷页面上，
+可见的文本、布局和纸张纹理清晰透出，
+圆珠笔绘画风格，精细的墨水线条，杂乱的分层笔触，
+没有干净的轮廓，一切由混乱的涂鸦构成，
+黑暗和柔和的底色（黑色，深靛蓝，暗紫罗兰色），
+带有微妙的低饱和度霓虹点缀（蓝色，青色，紫色），
+仅在关键区域（眼睛，核心，裂缝，静脉）有选择性的生物发光，
+不是整体的亮度，
+取决于主体的有机或机械纹理，
+错综复杂的细节，复杂的表面图案，
+形态从混乱中浮现，
+高密度中心，边缘消融为松散的涂鸦，
+主体附近微小的人类剪影强调了尺度感，
+半透明层，由线条密度产生的深度，
+原始的，不完美的，嘈杂的，充满活力的手绘感，
+略带诡异，超现实，神秘的氛围，
+混合媒体插画，涂鸦艺术，
+极其详细，黑暗团块和发光点缀之间的高对比度，
+杰作，极其详细
+
+[English]
+A colossal [SUBJECT], massive scale, towering presence,
+a gigantic entity far beyond human size, overwhelming and oppressive,
+
+drawn with extremely dense chaotic scribble lines,
+ultra-dense overlapping pen strokes, tangled and chaotic linework,
+
+on top of a real printed English/Chinese textbook or exam paper page,
+visible text, layout, and paper texture clearly showing through,
+
+ballpoint pen drawing style, fine ink lines, messy layered strokes,
+no clean outlines, everything constructed from chaotic scribbles,
+
+dark and muted base tones (black, deep indigo, dark violet),
+with subtle low-saturation neon accents (blue, cyan, purple),
+
+selective bioluminescent glow only in key areas (eyes, core, cracks, veins),
+not overall brightness,
+
+organic or mechanical textures depending on subject,
+intricate details, complex surface patterns,
+
+form emerging from chaos,
+high-density center, edges dissolving into loose scribbles,
+
+sense of scale emphasized by tiny human silhouette near the subject,
+
+semi-transparent layers, depth created by line density,
+raw, imperfect, noisy, energetic hand-drawn feeling,
+
+slightly eerie, surreal, mysterious atmosphere,
+mixed media illustration, scribble art,
+
+extremely detailed, high contrast between dark mass and glowing accents,
+masterpiece, ultra detailed
+
+主体：巨龙
+```
+<a name="case-231"></a>
+
+### 例 231：疾风起狂草艺术字体设计
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case231.jpg"></img>
+```text
+[中文]
+创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力；
+深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道；
+起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化；
+dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
+重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道；
+整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感；
+纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。
+
+[English]
+Creative artistic typography "Zong You Ji Feng Qi", hand-written style with a fine brush, overall text arranged horizontally, with strong visual impact;
+Deeply integrated with the essence of handwritten calligraphy, the brushstrokes carry the rugged and free-spirited nature of brush writing, like the unrestrained vigor of splashing ink;
+The flying white and pauses at the start and end of the strokes fully display the explosive tension of a promotion, the form of the text breaks away from neatness, with variations in the thickness of the strokes;
+dutch angle, creating a dynamic sprinting momentum, the font shape shows a bold and unrestrained trend;
+The center of gravity rises like being ready to launch, the stretching and interlacing of the strokes are completely unconstrained, like the vigor of a full-force sprint;
+The overall structure is intertwined with density and sparseness, the tight parts are like the surging of a promotional craze, and the blank spaces are like the breathing sense during promotional gaps;
+Pure black background as the base, perfectly fitting the passionate atmosphere, the form and color of the artistic typography are conveyed with full expressiveness.
+```
+
+***
+
+<a name="case-237"></a>
+
+### 例 237：夏日柑橘苏打高转化广告图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case25.jpg"></img>
+
+
+```text
+[中文]
+图像生成: 商品广告照片, 适合夏天的季节商品, 碳酸饮料, 名称="夏柑SODA", 形状=PET瓶500ml, 研究2025年作为饮料广告的高CTA设计后设计并生成图像规格, 宽高比3:4
+
+[English]
+Image generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name="Summer Citrus SODA", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4
+```
+
+***
+
+<a name="case-261"></a>
+
+### 例 261：智能视频生成器暗黑界面设计
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case261.jpg"></img>
+```text
+[中文]
+渲染一个专业的IOS APP首页UI图，该主题为AI Video Generator,英文界面。专业级设计，专业风格，暗黑色主题。
+
+[English]
+Render a professional iOS APP homepage UI image, the theme is AI Video Generator, English interface. Professional-level design, professional style, dark theme.
+```
+
+***
+
+<a name="case-262"></a>
+
+### 例 262：苹果园远观库克发布新机
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case262.jpg"></img>
+
+```text
+[中文]
+在Apple Park iPhone 20主题演讲期间拍摄的业余iPhone照片，蒂姆·库克在舞台上演讲。从远处的观众人群中拍摄
+
+[English]
+Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
+```
+***
+
+<a name="case-299"></a>
+
+### 例 299：极简留白涂鸦手绘草图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case299.jpg"></img>
+
+```text
+[中文]
+以涂鸦速写风表现【主题/主体】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。
+
+颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。
+
+背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。
+
+画面内容不需要预先写清楚，由【主题/主体】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。
+画面中需自然加入专属签名“voxcat”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
+
+[English]
+Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual effect of quick outlining, free deformation, impromptu hand-drawing, and draft-like appearance. The lines are casual, exaggerated, and can vary in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, playfulness, and spontaneity, rather than rigorous realism or detailed rendering. Colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smearing traces, brush strokes, dry-brush effects, and a sense of coverage. Colors automatically adapt to [Subject/Theme], but the overall expression remains graffiti-style, sketch-style, and generalized. Do not use transparent watercolor blooming effects, do not use delicate watercolor transitions, do not use paper textures, do not use soft atomization, and do not use dreamy textures. The background is mainly left blank, maintaining a sense of simplicity, relaxation, incompleteness, and design. A small number of auxiliary symbols, arrows, marks, circled areas, repeated lines, casually written text, or other graffiti elements can be added to enhance the visual language of a sketchbook or jotting style, but it must not be too crowded, and must not destroy the subject and the blank space temperament. The image content does not need to be written out in advance; the most suitable subject image, actions, related elements, symbols, or simplified scenes are automatically deduced and generated by [Subject/Theme], keeping the overall unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. The exclusive signature "voxcat" needs to be naturally added to the image as a part of the picture. The position should be low-key but clear, and can be placed in the bottom left corner, bottom right corner, or near the title. The style must be consistent with the overall layout, like an artwork signature or a design sign-off; the signature font should be exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, and must not appear abrupt or cheap.
+```
+
+***
+
+***
+
+<a name="case-316"></a>
+
+### 例 316：冲破次元壁的写实漫画跑者
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case316.jpg"></img>
+```text
+[中文]
+{
+  "prompt": "超写实，一位留着深色短卷发、修剪整齐的胡须和黑色方形眼镜的年轻男子的鲜艳逼真渲染，身穿深色纹理高领毛衣和牛仔裤。他奔跑到一半被捕捉下来，姿态充满动感，向前突破，充满戏剧性地从一个破碎的漫画分镜框中显现——一条腿和一只手臂冲入现实世界，而身体的其余部分仍留在漫画框内。他的表情充满活力和喜悦，拥有锐利的面部细节，自然的皮肤纹理，以及具有高对比度和深度的戏剧性电影灯光。\n\n背景：一个非常详细的黑白漫画布局，充满了幽默、夸张的且与他直接互动的反应场景。周围的漫画人物表现出震惊和喜剧的表情，配有粗体的对话气泡和速度线。漫画分镜采用经典的高对比度水墨风格绘制，线条清晰，网点阴影。撕裂的纸张边缘和碎片增强了他冲破漫画世界的幻觉。全彩色的写实人物与单色的漫画环境形成强烈对比，创造出写实与漫画艺术之间的动态混合体。超精细，8k分辨率，清晰聚焦，戏剧性的阴影，电影级景深。"
+}
+
+[English]
+{
+  "prompt": "Ultra-realistic, vibrant photorealistic rendering of a young man with short curly dark hair, neatly trimmed beard, and black rectangular glasses, wearing a dark textured turtleneck sweater and jeans. He is captured mid-run in a dynamic, forward-breaking pose, dramatically emerging from a torn manga panel — one leg and one arm bursting into the real world while the rest of his body remains inside the comic frame. His expression is energetic and joyful, with sharp facial details, natural skin texture, and dramatic cinematic lighting with high contrast and depth. \n\nBackground: a highly detailed black-and-white manga layout filled with humorous, exaggerated reaction scenes that directly interact with him. The surrounding manga characters display shocked and comedic expressions, with bold speech bubbles and motion lines. The manga panels are illustrated in a classic high-contrast ink style with crisp linework and halftone shading. Torn paper edges and debris enhance the illusion of him breaking through the comic world. The fully colored, photorealistic figure contrasts strongly against the monochrome manga environment, creating a dynamic hybrid between reality and comic art. Ultra-detailed, 8k resolution, sharp focus, dramatic shadows, cinematic depth of field."
+}
+```
+***
+<a name="case-324"></a>
+
+### 例 324：复古巴士上的红风衣女郎
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case324.jpg"></img>
+```text
+[中文]
+一位时尚年轻女子坐在老式复古巴士的前缘，身穿红色长风衣、羊毛无檐小便帽、圆形蓝色反光太阳镜、叠层项链和粗犷的棕色皮靴。她有着波浪状金发，带着自信而梦幻的表情，仰望天空。巴士漆面剥落，呈青绿色与铁锈红色调。明亮清澈的蓝天，城市背景建筑极少，柔和日光，电影级色彩分级，浅景深，高端时尚旅行氛围，编辑摄影，超写实，4K分辨率，锐利对焦，自然肌肤质感，戏剧性构图，电影静帧美学。
+
+[English]
+A stylish young woman sitting on the front edge of an old vintage bus, wearing a long red trench coat, woolen beanie cap, round blue reflective sunglasses, layered necklaces, and rugged brown leather boots. She has wavy blonde hair and a confident, dreamy expression, looking upward toward the sky. The bus is weathered with peeling paint in turquoise and rust red tones.Bright clear blue sky, urban background with minimal buildings, soft daylight, cinematic color grading, shallow depth of field, high fashion travel vibe, editorial photography, ultra-realistic, 4K resolution, sharp focus, natural skin texture, dramatic composition, film still aesthetic.
+```
+
+
+***
+
+<a name="case-328"></a>
+
+### 例 328：俯拍巨女城景自拍
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case328.jpg"></img>
+```text
+[中文]
+{
+  "type": "图像生成提示词",
+  "language": "zh",
+  "style": "超现实电影感自拍摄影",
+  "aspect_ratio": "9:16",
+  "identity_preservation": {
+    "use_reference_image": true,
+    "strict_identity_lock": true,
+    "alter_face": false,
+    "alter_skin": false,
+    "alter_hair": false,
+    "alter_gender": false,
+    "notes": "保留上传参考图像中完全一致的脸部特征、皮肤纹理、头发、眼镜、年龄和性别。禁止合成皮肤或雕塑感。"
+  },
+  "subject": {
+    "gender": "女性",
+    "capture_method": "由主体本人拍摄的自拍",
+    "pose": {
+      "selfie_arm": {
+        "description": "一只手臂完全伸直并完全向上伸展，手持拍摄自拍的相机",
+        "visibility": "手臂在画面中清晰可见、笔直且占主导地位",
+        "camera_visibility": "自拍相机设备本身不得在画面中出现"
+      },
+      "product_arm": {
+        "description": "另一只手臂完全伸向相机，手持附带的佳能相机",
+        "importance": "产品最靠近相机并在视觉上占主导地位"
+      },
+      "head": {
+        "tilt": "头部向自拍相机微微倾斜"
+      },
+      "expression": "自然放松的面部表情"
+    },
+    "body_visibility": "从头到脚全身可见",
+    "feet": "双脚清晰接触路面"
+  },
+  "composition": {
+    "perspective": "胸部高度的自然自拍视角",
+    "camera_angle": "极端俯拍角度，相机位于主体正上方并直视下方",
+    "layer_depth": [
+      "产品（最靠近相机）",
+      "脸部",
+      "全身",
+      "城市环境（背景）"
+    ]
+  },
+  "scale_and_perspective": {
+    "effect": "强制透视",
+    "subject_scale": "女性呈现极度巨大",
+    "buildings_scale": "建筑物显得小得多，最高不超过她的膝盖",
+    "dominance": "主体在视觉上完全主导整个场景",
+    "realism": "激发规模感同时保持物理可信"
+  },
+  "environment": {
+    "location": "真实城市十字路口",
+    "elements": [
+      "人行横道",
+      "道路标线",
+      "交通标志",
+      "汽车",
+      "自行车",
+      "真实人类尺度的行人"
+    ],
+    "setting": "地面层城市环境"
+  },
+  "lighting": {
+    "type": "自然日光",
+    "conditions": "晴朗或轻度多云天空",
+    "shadows": "柔和且真实",
+    "restrictions": "禁止奇幻或戏剧性照明"
+  },
+  "product_rules": {
+    "usage": "完全按提供的上传佳能产品使用",
+    "distortion": "无",
+    "logo": "保持不变",
+    "appearance": "仅有自然反射和真实高光"
+  },
+  "camera_quality": {
+    "realism": "最大照片真实感",
+    "depth": "前景、主体与背景清晰分离",
+    "artifacts": "无"
+  },
+  "constraints": [
+    "禁止AI艺术感",
+    "禁止塑料或雕塑皮肤",
+    "禁止扭曲脸部或身体",
+    "禁止多余肢体或错误解剖",
+    "禁止文字或水印",
+    "禁止可见自拍相机设备"
+  ],
+  "output_goal": "创作一张超现实电影感自拍图像：女性使用其确切参考身份，从极端俯拍视角在真实城市人行横道拍摄，具备强制透视比例、自然日光，并将佳能相机产品明显持向镜头。"
+}
+
+[English]
+{
+  "type": "image_generation_prompt",
+  "language": "en",
+  "style": "hyper-realistic cinematic selfie photography",
+  "aspect_ratio": "9:16",
+  "identity_preservation": {
+    "use_reference_image": true,
+    "strict_identity_lock": true,
+    "alter_face": false,
+    "alter_skin": false,
+    "alter_hair": false,
+    "alter_gender": false,
+    "notes": "Preserve identical facial features, skin texture, hair, glasses, age, and gender from the uploaded reference image. No synthetic skin or sculptural look."
+  },
+  "subject": {
+    "gender": "female",
+    "capture_method": "selfie taken by the subject herself",
+    "pose": {
+      "selfie_arm": {
+        "description": "one arm fully straight and completely extended upward holding the camera that takes the selfie",
+        "visibility": "arm clearly visible, straight and dominant in frame",
+        "camera_visibility": "the selfie camera device itself must NOT be visible in the frame"
+      },
+      "product_arm": {
+        "description": "the other arm fully extended toward the camera holding the attached Canon camera",
+        "importance": "product is closest to the camera and visually dominant"
+      },
+      "head": {
+        "tilt": "slightly tilted toward the selfie camera"
+      },
+      "expression": "natural and relaxed facial expression"
+    },
+    "body_visibility": "full body visible from head to toe",
+    "feet": "feet clearly touching the road surface"
+  },
+  "composition": {
+    "perspective": "natural selfie perspective at chest height",
+    "camera_angle": "extreme top-down angle, camera above the subject looking directly downward",
+    "layer_depth": [
+      "product (closest to camera)",
+      "face",
+      "full body",
+      "city environment (background)"
+    ]
+  },
+  "scale_and_perspective": {
+    "effect": "forced perspective",
+    "subject_scale": "the woman appears extremely giant",
+    "buildings_scale": "buildings appear much smaller, reaching no higher than her knees",
+    "dominance": "the subject visually dominates the entire scene",
+    "realism": "inspiring scale while remaining physically believable"
+  },
+  "environment": {
+    "location": "real urban intersection",
+    "elements": [
+      "pedestrian crosswalk",
+      "road markings",
+      "traffic signs",
+      "cars",
+      "bicycles",
+      "pedestrians at realistic human scale"
+    ],
+    "setting": "ground-level urban environment"
+  },
+  "lighting": {
+    "type": "natural daylight",
+    "conditions": "clear or lightly cloudy sky",
+    "shadows": "soft and realistic",
+    "restrictions": "no fantasy or dramatic lighting"
+  },
+  "product_rules": {
+    "usage": "use the uploaded Canon product exactly as provided",
+    "distortion": "none",
+    "logo": "unchanged",
+    "appearance": "natural reflections and realistic highlights only"
+  },
+  "camera_quality": {
+    "realism": "maximum photorealism",
+    "depth": "clear separation of foreground, subject, and background",
+    "artifacts": "none"
+  },
+  "constraints": [
+    "No AI-art look",
+    "No plastic or sculpted skin",
+    "No distortion of face or body",
+    "No extra limbs or incorrect anatomy",
+    "No text or watermarks",
+    "No visible selfie camera device"
+  ],
+  "output_goal": "Create a hyper-realistic cinematic selfie image of a woman using her exact reference identity, captured from an extreme top-down perspective in a real urban crosswalk, with forced perspective scale, natural daylight, and a Canon camera product prominently held toward the lens."
+}
+```
+***
+
+<a name="case-357"></a>
+
+### 例 357：鱼眼镜面复古咖啡馆人像
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case357.jpg"></img>
+```text
+A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
+```
+<a name="case-361"></a>
+
+### 例 361：手机爆炸拆解图
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case361.jpg"></img>
+```text
+Create a 3D Insane detailed exploded assembly drawing of [subject or object]
+```
+
+***
+
+<a name="case-363"></a>
+
+### 例 363：磁场铁粉 Logo 物理成像
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case363.jpg"></img>
+
+```text
+Transform the uploaded logo into a hyper-realistic scene where the logo silhouette is formed by iron filings reacting to a magnetic field. The logo must keep its exact shape and proportions, appearing as if a magnet shaped like the logo (or hidden beneath the surface) is influencing the filings to align naturally into that recognizable formation. Material details:
+Fine iron filings with sharp, spiky, needle-like structures.
+Dense clustering along magnetic field lines forming the logo silhouette.
+Variation in density — thick near magnetic poles, thinner outward.
+Matte dark metallic texture with subtle reflections.
+
+Physics behavior:
+Iron filings must follow realistic magnetic field patterns — radial and curved lines forming spikes and ridges.
+Stronger attraction zones create thicker, raised clusters.
+Outer areas show softer, more dispersed alignment.
+Natural randomness and slight irregularity — no perfect edges.
+Some loose filings scattered beyond the main shape.
+
+Surface interaction:
+Flat surface such as a lab table, glass plate, or matte black tray.
+Filings resting on surface but visibly lifted in areas due to magnetic force (spiky texture).
+Subtle dust and micro particles around.
+
+Environment & human presence:
+Realistic classroom, science lab, or creative studio environment.
+A person partially visible — hands holding or moving a magnet beneath the surface or nearby.
+Possibly a child or adult observing or interacting (adds emotional curiosity).
+Other subtle elements: notebooks, tools, or lab items out of focus.
+
+Lighting:
+Directional overhead light creating shadows from raised filings.
+Subtle highlights on metallic edges.
+Balanced natural or indoor lighting.
+
+Atmosphere:
+Curiosity.
+Discovery.
+Educational yet visually satisfying.
+Quiet but engaging moment.
+
+Camera & composition:
+Top-down or slightly angled close-up view.
+Logo clearly visible through iron filing formation.
+Human hands or interaction slightly off-center for storytelling.
+
+Format:
+Aspect ratio: STRICT 4:5 vertical.
+No text overlays.
+
+Style:
+Hyper-real macro + environmental photography.
+Physically accurate magnetic behavior.
+Cinematic yet grounded realism.
+```
+***
+
+<a name="case-376"></a>
+
+### 例 376：泼洒抹茶街头手机照片
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case376.jpg"></img>
+```text
+A realistic vertical smartphone photo of a spilled green iced drink on outdoor stone pavement, a transparent disposable plastic cup lying on its side inside the green puddle, clear plastic lid nearby, scattered ice cubes floating in the drink, small foam bubbles on the surface, green liquid naturally spreading across rough square floor tiles, strong midday sunlight, harsh realistic shadows, a dark human shadow silhouette cast across the ground and partially over the spill, accidental street moment, urban documentary photography, handheld phone camera perspective, slightly top-down angle, natural colors, realistic pavement texture, raw unedited photo look, high detail, authentic everyday scene, 9:16 vertical composition
+
+Negative Prompt:
+cartoon, illustration, anime, CGI, 3D render, fantasy style, studio lighting, overly perfect composition, overly clean floor, fake liquid, unrealistic reflections, plastic-looking liquid, oversaturated green, blurry, low resolution, distorted cup, melted plastic, extra cups, duplicated objects, readable brand logo, messy text, watermark, poster design, dramatic artificial lighting, excessive sharpening, over-processed, unrealistic shadow, floating ice, deformed perspective
+```
+
+
+***
+
+<a name="case-390"></a>
+
+### 例 390：羊毛毡国家微缩世界
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case390.jpg"></img>
+```text
+Country: [INSERT COUNTRY NAME]
+
+A miniature felt diorama made of fluffy yarn, wool, and needlework, designed as a single cohesive small world (not a collage), reflecting the real landscape, culture, and daily life of the country.
+
+Structure:
+- Select 4–7 naturally integrated elements (landscape, architecture, transport, street life, culture)
+- Everything must flow together as one environment
+
+Foreground:
+Everyday life — small shops, cafes, markets, people interacting, local clothing, street details, subtle movement, warm human presence
+
+Midground:
+Connecting flow — streets, bridges, rivers, paths, transport, cultural spaces that guide the eye naturally from front to back
+
+Background:
+One strong identity anchor — landmark, skyline, mountain, or symbolic landscape clearly representing the country (keep it clean, not overcrowded)
+
+Style:
+Handmade wool felt, yarn, needle-felt textures, visible fibers, soft edges, miniature craftsmanship, premium diorama realism
+
+Lighting:
+Warm golden hour or bright noon, soft shadows, clear visibility, gentle glow enhancing depth
+
+Color:
+Soft but saturated palette reflecting the country’s natural tones (greens, sky blues, architectural hues, cultural accents), warm and balanced
+
+Composition:
+Vertical frame, balanced or centered perspective, slight top-down or immersive angle, clear foreground–midground–background depth
+
+Mood:
+Warm, emotional, calm, refined — like a handcrafted fairy-tale version of real life (not childish)
+
+Rules:
+- No logos or text overlays
+- No collage-style composition
+- No random symbolic clutter
+- Keep it realistic but stylized as a handmade miniature world
+
+Quality:
+16K, ultra-detailed, hyper-realistic miniature textures, cinematic depth, sharp focus
+
+output_goal:
+A single, cohesive felt diorama world that instantly conveys the identity and atmosphere of the chosen country through integrated landscape, culture, and daily life
+```
+
+<a name="case-395"></a>
+
+### 例 395：骑士法师大战石像魔像
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case395.jpg"></img>
+```text
+Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argument name="hero type" default="female armored knight-mage"} crouches in a defensive lunge on the left foreground, wearing ornate dark steel and leather plate armor with a long cream-and-black tabard, one arm extended behind her gripping a spiked mace or morning star crackling with golden magic sparks, the other arm braced forward behind a round glowing shield rimmed with warm light. Opposite her in the right midground is a massive {argument name="enemy type" default="headless stone golem"}, built from cracked gray masonry plates and bound with broken chains, charging with one huge fist raised and rubble falling from its body. Set the battle inside a grand, damaged palace-cathedral interior with towering arches, carved stone columns, tall broken windows, gold-trimmed marble floor in circular geometric patterns, scattered chunks of stone, dust, and debris. Use dramatic backlighting from a bright arched window behind the golem, warm golden magical highlights on the shield and weapon, deep shadows, volumetric dust beams, realistic textures, high-detail armor and stone, dynamic low-angle wide composition, shallow cinematic depth, epic game-cinematic realism, 16:9 widescreen, no text, no UI.
+```
+
+
+<a name="case-400"></a>
+
+### 例 400：多风格签名选择海报
+
+<img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case400.jpg"></img>
+```text
+你是一个高端签名设计系统 + 风格人格视觉系统。
+
+任务：
+仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。
+目标是把名字转译为具有笔势、气质与力量感的签名设计系统，让用户产生选择欲、认同感和分享欲。
+
+输入信息：
+姓名：[输入你的昵称]
+禁止要求额外信息，必须自动完成气质与风格推断。
+
+隐藏执行逻辑：
+1. 字形与笔势分析：
+- 结构：疏密、横竖比例、重心位置
+- 节奏：连贯、停顿、爆发、收束
+- 适配：连笔程度、草写程度、变形空间
+
+2. 气质推断：
+清冷、张扬、克制、商业、文艺、松弛、锋利、高级。
+
+3. 生成 6 个签名分支：
+- 全部适配该姓名
+- 每一个都有明确书写风格
+- 差异来自笔势、节奏、结构和收笔方式
+
+整体画面：
+9:16 竖版海报，极简、高级、干净、有设计感、适合传播。
+背景使用纯白或极浅灰渐变，留白不少于 40%。
+
+顶部标题区：
+主标题可用：
+「你的名字，适合哪种签名？」
+或：
+「[姓名] · 签名风格选择」
+副标题：
+「不同笔势，不同气场」
+排版为黑色与灰色，高级字距，留白充足。
+
+签名卡片区域：
+使用整齐网格卡片布局，推荐 2 列 × 3 行，共 6 个卡片。
+每个卡片统一尺寸、统一间距、整体对齐干净。
+
+卡片样式：
+- 轻微圆角 8-16px
+- 无明显边框，或极细描边
+- 极轻阴影
+- 背景为纯白微差、极浅灰，或轻微宣纸 / 磨砂质感
+视觉目标接近高级杂志排版，避免强 UI 感、厚卡片和 App 组件感。
+
+签名生成规则：
+签名必须基于书写动作生成，避免只做字体变形。
+每一个签名风格在生成前，先确定一套明确书写行为规则：
+1. 起笔方式：轻触起笔、重压起笔、直接横扫、从左下进入或从中段切入。
+2. 连笔结构：前两个字强连笔后面断开、全连笔一气呵成、只连接偏旁。
+3. 节奏变化：快到慢再收、慢到爆发再拉伸、或均匀节奏。
+4. 结构变形：横向拉长、垂直压缩、整体右倾或左倾、字间重叠或错位。
+5. 收笔设计：尾笔长甩、突然收断、回钩、渐隐收尾。
+
+6 种签名方向：
+1. 极简理性：接近品牌签名
+2. 狂放张力：强烈连笔和拉伸
+3. 松弛随性：手写感强
+4. 东方行草：飞白和墨感
+5. 锋利结构：几何感和断裂
+6. 实验风格：允许部分不可读，但需要强设计感
+
+色彩策略：
+整体以黑、灰、白为主。每个卡片允许一个极轻微点缀色，例如冷灰蓝、香槟金、墨黑、暖棕、深绿。
+避免大面积色块和花哨配色。
+
+底部互动区：
+底部居中加入小号灰字：
+「选一个，作为你的专属签名。」
+或：
+「你是第几种？」
+
+光影与质感：
+高级棚拍光、柔光环境、细腻阴影、干净空气感。
+质感参考 Apple 发布会视觉和高端品牌视觉。
+
+禁止项：
+不要字体拼贴，不要普通书法字，不要 UI 卡片风，不要颜色杂乱，不要签名太小，不要排版松散，不要缺乏笔势，不要模板拼接感。
+
+最终目标：
+生成一张高级、干净、有秩序、有笔势张力的 6 风格签名选择海报。
+用户一眼能选出最像自己的一款签名。
+```
