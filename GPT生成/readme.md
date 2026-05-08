@@ -1,3 +1,4 @@
+怎么把ChatGPT image 2拆
 參考圖提示词
 ### 例 25：综合应用场景图
 <img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case25.jpg"></img>
