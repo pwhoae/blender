@@ -808,4 +808,38 @@ Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argu
 ```
 生成3×3照片网格。 在所有面板中完整保留上传图像中的面部、发型和服装。制作一个角色设计表情风格指南的图像，风格要求： *  每个网格都是角色头像正视图 *  还原参考图的风格 *  所有图片中的服装、脸型和发型都相同 *  整个网格中的姿势和表情都不相同 
 ```
+```
+將原圖重新繪製成「學校教室黑板上的粉筆畫」風格。
+整體畫面像是用彩色粉筆手工繪製在深綠色或深黑色黑板上，保留原圖的構圖、角色動作與主要元素，但全部轉換成粗糙自然的粉筆筆觸。
 
+風格特徵：
+
+* 明顯的粉筆塗抹感、粉塵顆粒、擦拭痕跡
+* 白色粉筆線條作為主要輪廓
+* 局部使用彩色粉筆（紅、藍、黃、粉、綠）進行上色
+* 線條略帶不規則與手繪感
+* 黑板表面有真實刮痕、灰塵與反光
+* 畫面邊緣有未擦乾淨的殘留粉筆痕跡
+* 像學生或美術社在課後精心繪製的大型黑板藝術
+
+氣氛：
+
+* 校園感
+* 懷舊青春感
+* 手作藝術感
+* 溫暖且富有創意
+
+可追加細節：
+
+* 黑板角落寫有數學公式、塗鴉、小字留言
+* 可加入日期、課表、星星、箭頭、可愛 doodle
+* 畫面局部有手擦開的粉筆暈染效果
+* 教室光線從窗戶斜射進來
+
+品質要求：
+high detail, chalk texture, realistic blackboard surface, soft chalk dust, hand-drawn style, classroom atmosphere, artistic chalk illustration, cinematic lighting, textured strokes, authentic pastel chalk art
+
+負面詞：
+photorealistic paint, digital clean lineart, glossy surface, 3D render, vector art, smooth shading, oil painting, plastic texture, neon lighting
+
+```
