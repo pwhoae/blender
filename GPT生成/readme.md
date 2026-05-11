@@ -1065,3 +1065,7 @@ photorealistic paint, digital clean lineart, glossy surface, 3D render, vector a
   }
 }
 ```
+```
+生成3×3照片网格。 在所有面板中完整保留上传图像中的面部、发型和服装。制作一个角色设计表情风格指南的图像，风格要求： * 每个网格都是角色头像正视图 * 还原参考图的风格 * 所有图片中的服装、脸型和发型都相同 * 整个网格中的姿势和表情都不相同
+```
+go
