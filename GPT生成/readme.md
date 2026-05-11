@@ -1,4 +1,5 @@
-go|`[回到底部](#readme)`|[回到底部](#readme)|
+[回到底部](#readme)|<br>
+<a id="readme_begin"></a>
 怎么把ChatGPT image 2拆
 开放世界
 參考圖提示词
@@ -1072,3 +1073,4 @@ photorealistic paint, digital clean lineart, glossy surface, 3D render, vector a
 go
 <a id="readme"></a>
 ## 這裡是底部
+[回到頂部](#readme_begin)|<br>
