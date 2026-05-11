@@ -1,0 +1,131 @@
+根據參考圖中的角色外觀、髮型、服裝、配色與畫風，生成「角色表情差分（Expression Sheet）」。
+保持角色設計完全一致，不改變角色身份、年齡感、服裝細節、構圖比例與繪畫風格。
+整體以「乾淨的角色表情設定表／遊戲立繪差分表」形式呈現。
+
+畫面要求：
+
+* 純色或透明背景
+* 正面半身構圖
+* 每個表情獨立排列
+* 五行多列表情展示
+* 保持同一角色、同一光影、同一線稿風格
+* 表情變化明確且辨識度高
+* 高品質 anime illustration
+* cohesive expression sheet
+* consistent character design
+* studio-quality character expression reference
+* clean spacing layout
+* expression variation focus
+* high detail face acting
+* subtle eye shape variation
+* expressive mouth animation feel
+
+---
+
+【第1行：喜悅與友善｜Positive Emotions】
+
+1. 微笑（Smile）
+   標準自然微笑，嘴角輕微上揚，眼神柔和。
+
+2. 大笑（Laugh）
+   張口大笑，眼睛微瞇，充滿活力與開朗感。
+
+3. 苦笑（Bitter Smile）
+   帶有無奈感的笑容，嘴角勉強上揚，搭配細微冷汗。
+
+4. 得意（Smug / Grin）
+   單邊嘴角上揚，自信、壞笑感，略帶挑釁眼神。
+
+5. 溫柔（Gentle）
+   淡淡微笑，眼神柔和溫暖，帶有治癒感。
+
+---
+
+【第2行：憤怒與不滿｜Anger / Irritation】
+
+6. 生氣（Angry）
+   眉頭緊皺，眼神銳利，嘴巴抿起。
+
+7. 憤怒（Rage）
+   情緒爆發，張口怒吼，眉毛壓低，可加入青筋符號。
+
+8. 不爽（Annoyed / Pout）
+   鼓起臉頰、嘟嘴、撇頭，不耐煩表情。
+
+9. 鄙視（Contempt / Scorn）
+   半睜眼、冷淡眼神、帶有輕蔑與距離感。
+
+---
+
+【第3行：悲傷與不安｜Sadness / Anxiety】
+
+10. 悲傷（Sad）
+    眼神低垂，眉毛呈八字型，帶有淡淡落寞感。
+
+11. 哭泣（Crying）
+    眼眶泛紅、流淚，嘴角顫抖。
+
+12. 困惑（Confused / Troubled）
+    眉頭微皺，露出困擾與不理解的神情。
+
+13. 害怕（Scared / Fear）
+    瞳孔縮小，身體微縮，帶有不安與恐懼。
+
+14. 絕望（Despair）
+    眼睛失去高光（loss of highlights），陰影覆蓋眼部，精神崩潰感。
+
+---
+
+【第4行：驚訝與反應｜Surprise / Reaction】
+
+15. 驚訝（Surprised）
+    睜大雙眼，嘴巴微張。
+
+16. 震驚（Shocked）
+    表情僵硬，冷汗、蒼白感，強烈衝擊反應。
+
+17. 呆滯（Blank / Stunned）
+    雙眼空洞、放空，大腦停止運作般的反應。
+
+18. 閃閃發光（Sparkle）
+    眼中帶星星高光，充滿憧憬與興奮感。
+
+---
+
+【第5行：害羞與情感｜Blushing / Romantic】
+
+19. 害羞（Blushing）
+    雙頰泛紅，眼神閃躲，小幅微笑。
+
+20. 臉紅心跳（Heart-eyed）
+    雙眼化為愛心，沉浸戀愛感。
+
+21. 慌張（Flustered）
+    滿臉通紅、手忙腳亂、眼神混亂。
+
+22. 傲嬌（Tsundere）
+    臉紅但故作生氣，嘴硬害羞感。
+
+---
+
+【附加差分效果（Expression Add-ons）】
+
+可依表情搭配以下 anime emotion symbols：
+
+* anger mark
+* sweat drop
+* blush flush
+* tears
+* trembling
+* shadow over eyes
+* loss of eye highlights
+* sparkling eyes
+* pale face
+* stress lines
+* dramatic anime shading
+
+---
+
+風格強化關鍵字：
+
+masterpiece, best quality, highly detailed anime face, expressive eyes, emotion sheet, character acting study, visual novel expression set, Live2D expression reference, Japanese anime style, polished cel shading, clean lineart, consistent anatomy, high expression readability, professional character sheet, game sprite expression variation, soft lighting, expressive facial muscle detail, cohesive illustration board
