@@ -9,6 +9,9 @@ AI放大+修复图片网站：https://bigjpg.com/<br>
 vercel.app<br>
 
 <h2>次要/從缺</h2><br>
+xmind(心智圖):https://xmind.com/zh-hant/<br>
+desmos(數學graph):https://www.desmos.com/?lang=zh-TW<br>
+lucidchart(flowchart):https://www.lucidchart.com/pages<br>
 flexible animatesheet player <br>
 纹理网站：<br>
 字体识别网站：<br>
