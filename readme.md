@@ -7,3 +7,7 @@ AI放大+修复图片网站：https://bigjpg.com/<br>
 纹理网站：<br>
 字体识别网站：<br>
 字体网站：https://www.fonts.net.cn/<br>
+
+<hr>
+<h2>音樂工具</h2><br>
+n-bit-audio-converter:https://test-n-bit-audio-converter.vercel.app/<br>
