@@ -11,3 +11,11 @@ AI放大+修复图片网站：https://bigjpg.com/<br>
 <hr>
 <h2>音樂工具</h2><br>
 n-bit-audio-converter:https://test-n-bit-audio-converter.vercel.app/<br>
+
+<hr>
+<h3>Youtube/BiliBili插件</h3><br>
+Youtube懶人包<br>
+sponsorblock<br>
+頻道會員API<br>
+小电视空降助手<br>
+BiliBlock<br>
