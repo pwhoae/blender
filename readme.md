@@ -9,6 +9,7 @@ AI放大+修复图片网站：https://bigjpg.com/<br>
 vercel.app<br>
 
 <h2>次要/從缺</h2><br>
+flexible animatesheet player <br>
 纹理网站：<br>
 字体识别网站：<br>
 字体网站：https://www.fonts.net.cn/<br>
