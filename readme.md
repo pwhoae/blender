@@ -17,6 +17,9 @@ flexible animatesheet player <br>
 <hr>
 <h2>音樂工具</h2><br>
 n-bit-audio-converter:https://test-n-bit-audio-converter.vercel.app/<br>
+suno:https://suno.com/create<br>
+elevenlabs:https://elevenlabs.io/<br>
+Strudel工具<br>
 
 <hr>
 <h3>Youtube/BiliBili插件</h3><br>
