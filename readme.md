@@ -1,5 +1,5 @@
 [回到底部](#readme)
-https://github.com/pwhoae/Artbank/tree/main/GPT%E7%94%9F%E6%88%90
+https://github.com/pwhoae/Artbank/blob/main/GPT%E7%94%9F%E6%88%90/readme.md
 <a id="readme_begin"></a>
 
 <h1>主要</h1><br>
