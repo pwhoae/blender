@@ -38,6 +38,8 @@ BiliBlock<br>
 
 
 <hr>
+<h4>album</h4><br>
+https://hkust-geco.gump.gg/album/day-2-november-15-sessions-5-8-ais-shss-seng<br>
 
 [回到頂部](#readme_begin) 
 <a id="readme"></a>
