@@ -1096,6 +1096,7 @@ photorealistic paint, digital clean lineart, glossy surface, 3D render, vector a
 風格關鍵字：
 超寫實、微距攝影、像素藝術、拼圖模板、鑽石畫、數字填色板、印刷質感、8K、高解析度、真實材質、工藝品展示、專業產品攝影
 ```
+表情差分
 ```
 使用提供的參考圖作為角色唯一設計來源，生成「25種表情／特效差分（Expression Sheet）」完整角色差分表。
 
