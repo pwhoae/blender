@@ -29,12 +29,13 @@ elevenlabs:https://elevenlabs.io/<br>
 Strudel工具<br>
 
 <hr>
-<h3>Youtube/BiliBili插件</h3><br>
+<h3>Youtube/BiliBili插件/thread</h3><br>
 Youtube懶人包<br>
 sponsorblock<br>
 頻道會員API<br>
 小电视空降助手<br>
 BiliBlock<br>
+https://threadsdownloader.com/zh<br>
 
 
 <hr>
