@@ -1096,6 +1096,128 @@ photorealistic paint, digital clean lineart, glossy surface, 3D render, vector a
 風格關鍵字：
 超寫實、微距攝影、像素藝術、拼圖模板、鑽石畫、數字填色板、印刷質感、8K、高解析度、真實材質、工藝品展示、專業產品攝影
 ```
+```
+使用提供的參考圖作為角色唯一設計來源，生成「25種表情／特效差分（Expression Sheet）」完整角色差分表。
+
+【核心要求】
+- 角色外觀、髮型、服裝、配色、畫風、年齡感、五官比例必須與參考圖完全一致
+- 不可改變角色身份與服裝設計
+- 所有差分需保持同一角色模型與同一視角
+- 採用「Galgame / VTuber / Live2D / 視覺小說角色差分表」形式
+- 背景保持簡潔純色或透明感灰白背景
+- 角色置中排列
+- 每個表情獨立清晰
+- 高解析度
+- anime style, clean lineart, professional expression sheet, character emotion variations, consistent character design
+
+【輸出形式】
+生成完整「25表情差分總覽」
+可採：
+- 多列網格排列
+- Live2D 差分展示板
+- Character Expression Reference Sheet
+- 角色設定集風格
+
+【表情差分內容】
+
+1. 通常顔
+普通表情、自然嘴角、標準眼神
+
+2. 怒り顔
+皺眉、生氣、嘴角下壓
+
+3. 困り顔
+委屈、困擾、微弱八字眉
+
+4. ジト目顔
+側目鄙視、半睜眼、冷淡視線
+
+5. 照れ
+臉紅紅暈、害羞表情
+(blush overlay effect)
+
+6. 目のハイライトOFF
+失去眼睛高光、空洞感
+
+7. どんより
+灰暗沮喪、陰沉氛圍
+(gloom shadow overlay)
+
+8. 涙
+含淚、流淚效果
+(animated tear effect feel)
+
+9. 白目
+翻白眼、失神感
+
+10. 黒目
+縮瞳、純黑眼、驚嚇感
+
+11. より目
+鬥雞眼、聚焦錯亂
+
+12. あせ
+額頭流汗、尷尬汗滴
+(sweat drop effect)
+
+13. ハート目
+愛心眼、戀愛狀態
+
+14. しいたけ目
+星星眼 / 香菇眼、超期待感
+(glittery excited eyes)
+
+15. ガンギマリ
+精神崩壞感、狂氣眼神、瞳孔異常
+
+16. ＞＜目
+＞＜ 閉眼表情、用力表情
+
+17. ボカシ目
+失焦、微醺模糊感
+
+18. なごみ目
+瞇瞇眼、溫柔放鬆
+
+19. ぐるぐる目
+蚊香眼、暈眩狀態
+(spiral eyes effect)
+
+20. 読み込み中
+眼睛像 loading 圈圈、腦袋卡住感
+(loading icon eyes)
+
+21. 怒りマーク
+頭上青筋符號、生氣特效
+
+22. ぷんぷん煙エフェクト
+冒煙、生氣蒸氣特效
+(cartoon anger smoke)
+
+23. ハートエフェクト
+角色周圍漂浮愛心特效
+
+24. キラキラエフェクト
+閃亮亮粒子特效
+(sparkle aura effect)
+
+25. メガネ
+配戴眼鏡版本
+
+【風格要求】
+- 日系動畫角色差分
+- 專業遊戲角色設定集
+- 高完成度
+- 可直接用於 Live2D / VN / RPG / Galgame
+- 表情變化明確但角色一致性極高
+- 柔和動漫光影
+- 精緻眼睛繪製
+- 高細節頭髮陰影
+- emotion showcase sheet
+- expression reference board
+- transparent accessory layers feeling
+- professional anime production material
+```
 go
 <a id="readme"></a>
 ## 回到底部
